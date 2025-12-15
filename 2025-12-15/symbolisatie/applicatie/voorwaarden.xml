@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<voorwaarden>
+   <waardelijst uri="http://standaarden.omgevingswet.overheid.nl/imow/id/waardelijst/Activiteitengroep">
+      <symboolcode>
+         <lijn>
+            <waarde>ls021</waarde>
+         </lijn>
+         <punt>
+            <waarde>pc221</waarde>
+         </punt>
+         <vlak>
+            <soort xpath="contains(term,'MilieubelastendeActiviteit')">vag0</soort>
+            <soort xpath="contains(term,'Beperkingengebiedactiviteit')">vag2</soort>
+            <soort>vag1</soort>
+         </vlak>
+      </symboolcode>
+   </waardelijst>
+   <waardelijst uri="http://standaarden.omgevingswet.overheid.nl/imow/id/waardelijst/Activiteitregelkwalificatie">
+      <symboolcode/>
+   </waardelijst>
+   <waardelijst uri="http://standaarden.omgevingswet.overheid.nl/imow/id/waardelijst/Adressaat">
+      <symboolcode/>
+   </waardelijst>
+   <waardelijst uri="http://standaarden.omgevingswet.overheid.nl/imow/id/waardelijst/Beperkingengebiedgroep">
+      <symboolcode>
+         <lijn>
+            <soort>ls</soort>
+         </lijn>
+         <punt>
+            <soort>pr1</soort>
+         </punt>
+         <vlak>
+            <soort>vsg0</soort>
+         </vlak>
+      </symboolcode>
+   </waardelijst>
+   <waardelijst uri="http://standaarden.omgevingswet.overheid.nl/imow/id/waardelijst/Bodemgroep">
+      <symboolcode>
+         <lijn>
+            <soort>ls</soort>
+         </lijn>
+         <punt>
+            <soort>pr1</soort>
+         </punt>
+         <vlak>
+            <soort>vsz</soort>
+         </vlak>
+      </symboolcode>
+   </waardelijst>
+   <waardelijst uri="http://standaarden.omgevingswet.overheid.nl/imow/id/waardelijst/Bouwgroep">
+      <symboolcode>
+         <lijn>
+            <soort>lt</soort>
+         </lijn>
+         <punt>
+            <soort>pr1</soort>
+         </punt>
+         <vlak>
+            <soort>voh</soort>
+         </vlak>
+      </symboolcode>
+   </waardelijst>
+   <waardelijst uri="http://standaarden.omgevingswet.overheid.nl/imow/id/waardelijst/Defensiegroep">
+      <symboolcode>
+         <lijn>
+            <soort>ls</soort>
+         </lijn>
+         <punt>
+            <soort>pr1</soort>
+         </punt>
+         <vlak>
+            <soort>vsg0</soort>
+         </vlak>
+      </symboolcode>
+   </waardelijst>
+   <waardelijst uri="http://standaarden.omgevingswet.overheid.nl/imow/id/waardelijst/Eenheid">
+      <symboolcode/>
+   </waardelijst>
+   <waardelijst uri="http://standaarden.omgevingswet.overheid.nl/imow/id/waardelijst/Energievoorzieninggroep">
+      <symboolcode>
+         <lijn>
+            <soort>ls</soort>
+         </lijn>
+         <punt>
+            <soort>pr1</soort>
+         </punt>
+         <vlak>
+            <soort>vsz</soort>
+         </vlak>
+      </symboolcode>
+   </waardelijst>
+   <waardelijst uri="http://standaarden.omgevingswet.overheid.nl/imow/id/waardelijst/Erfgoedgroep">
+      <symboolcode>
+         <lijn>
+            <soort>lm</soort>
+         </lijn>
+         <punt>
+            <soort>pr1</soort>
+         </punt>
+         <vlak>
+            <soort>vsgt1</soort>
+         </vlak>
+      </symboolcode>
+   </waardelijst>
+   <waardelijst uri="http://standaarden.omgevingswet.overheid.nl/imow/id/waardelijst/ExterneVeiligheidgroep">
+      <symboolcode>
+         <lijn>
+            <soort>ls</soort>
+         </lijn>
+         <punt>
+            <soort>pr1</soort>
+         </punt>
+         <vlak>
+            <soort>vsg0</soort>
+         </vlak>
+      </symboolcode>
+   </waardelijst>
+   <waardelijst uri="http://standaarden.omgevingswet.overheid.nl/imow/id/waardelijst/Functiegroep">
+      <symboolcode>
+         <lijn>
+            <soort>lm</soort>
+         </lijn>
+         <punt>
+            <soort>pv1</soort>
+         </punt>
+         <vlak>
+            <soort>vsg1</soort>
+         </vlak>
+      </symboolcode>
+   </waardelijst>
+   <waardelijst uri="http://standaarden.omgevingswet.overheid.nl/imow/id/waardelijst/Geluidgroep">
+      <symboolcode>
+         <lijn>
+            <soort>lm</soort>
+         </lijn>
+         <punt>
+            <soort>pr1</soort>
+         </punt>
+         <vlak>
+            <soort>vsh</soort>
+         </vlak>
+      </symboolcode>
+   </waardelijst>
+   <waardelijst uri="http://standaarden.omgevingswet.overheid.nl/imow/id/waardelijst/Geurgroep">
+      <symboolcode>
+         <lijn>
+            <soort>ls</soort>
+         </lijn>
+         <punt>
+            <soort>pr1</soort>
+         </punt>
+         <vlak>
+            <soort>vsgt0</soort>
+         </vlak>
+      </symboolcode>
+   </waardelijst>
+   <waardelijst uri="http://standaarden.omgevingswet.overheid.nl/imow/id/waardelijst/Idealisatie">
+      <symboolcode/>
+   </waardelijst>
+   <waardelijst uri="http://standaarden.omgevingswet.overheid.nl/imow/id/waardelijst/Instrument">
+      <symboolcode/>
+   </waardelijst>
+   <waardelijst uri="http://standaarden.omgevingswet.overheid.nl/imow/id/waardelijst/Landschapgroep">
+      <symboolcode>
+         <lijn>
+            <soort>ls</soort>
+         </lijn>
+         <punt>
+            <soort>pr1</soort>
+         </punt>
+         <vlak>
+            <soort>vsg0</soort>
+         </vlak>
+      </symboolcode>
+   </waardelijst>
+   <waardelijst uri="http://standaarden.omgevingswet.overheid.nl/imow/id/waardelijst/Leidinggroep">
+      <symboolcode>
+         <lijn>
+            <soort>ls</soort>
+         </lijn>
+         <punt>
+            <soort>pr1</soort>
+         </punt>
+         <vlak>
+            <soort>vsg0</soort>
+         </vlak>
+      </symboolcode>
+   </waardelijst>
+   <waardelijst uri="http://standaarden.omgevingswet.overheid.nl/imow/id/waardelijst/Luchtgroep">
+      <symboolcode>
+         <lijn>
+            <soort>ls</soort>
+         </lijn>
+         <punt>
+            <soort>pr1</soort>
+         </punt>
+         <vlak>
+            <soort>vsgt0</soort>
+         </vlak>
+      </symboolcode>
+   </waardelijst>
+   <waardelijst uri="http://standaarden.omgevingswet.overheid.nl/imow/id/waardelijst/Mijnbouwgroep">
+      <symboolcode>
+         <lijn>
+            <soort>ls</soort>
+         </lijn>
+         <punt>
+            <soort>pr1</soort>
+         </punt>
+         <vlak>
+            <soort>vsh</soort>
+         </vlak>
+      </symboolcode>
+   </waardelijst>
+   <waardelijst uri="http://standaarden.omgevingswet.overheid.nl/imow/id/waardelijst/Natuurgroep">
+      <symboolcode>
+         <lijn>
+            <soort>lm</soort>
+         </lijn>
+         <punt>
+            <soort>pr1</soort>
+         </punt>
+         <vlak>
+            <soort>vsgt1</soort>
+         </vlak>
+      </symboolcode>
+   </waardelijst>
+   <waardelijst uri="http://standaarden.omgevingswet.overheid.nl/imow/id/waardelijst/Omgevingsnormgroep">
+      <symboolcode>
+         <lijn>
+            <soort>lt</soort>
+         </lijn>
+         <punt>
+            <soort>pk1</soort>
+         </punt>
+         <vlak>
+            <soort>vog</soort>
+         </vlak>
+      </symboolcode>
+   </waardelijst>
+   <waardelijst uri="http://standaarden.omgevingswet.overheid.nl/imow/id/waardelijst/Omgevingswaardegroep">
+      <symboolcode>
+         <lijn>
+            <soort>ls</soort>
+         </lijn>
+         <punt>
+            <soort>px1</soort>
+         </punt>
+         <vlak>
+            <soort>vag4</soort>
+         </vlak>
+      </symboolcode>
+   </waardelijst>
+   <waardelijst uri="http://standaarden.omgevingswet.overheid.nl/imow/id/waardelijst/Recreatiegroep">
+      <symboolcode>
+         <lijn>
+            <soort>ls</soort>
+         </lijn>
+         <punt>
+            <soort>pr1</soort>
+         </punt>
+         <vlak>
+            <soort>vsgt0</soort>
+         </vlak>
+      </symboolcode>
+   </waardelijst>
+   <waardelijst uri="http://standaarden.omgevingswet.overheid.nl/imow/id/waardelijst/RuimtelijkGebruikgroep">
+      <symboolcode>
+         <lijn>
+            <soort>ls</soort>
+         </lijn>
+         <punt>
+            <soort>pr1</soort>
+         </punt>
+         <vlak>
+            <soort>vsg0</soort>
+         </vlak>
+      </symboolcode>
+   </waardelijst>
+   <waardelijst uri="http://standaarden.omgevingswet.overheid.nl/imow/id/waardelijst/Thema">
+      <symboolcode/>
+   </waardelijst>
+   <waardelijst uri="http://standaarden.omgevingswet.overheid.nl/imow/id/waardelijst/TypeGebiedsaanwijzing">
+      <symboolcode/>
+   </waardelijst>
+   <waardelijst uri="http://standaarden.omgevingswet.overheid.nl/imow/id/waardelijst/TypeNorm">
+      <symboolcode/>
+   </waardelijst>
+   <waardelijst uri="http://standaarden.omgevingswet.overheid.nl/imow/id/waardelijst/Verkeergroep">
+      <symboolcode>
+         <lijn>
+            <soort>ls</soort>
+         </lijn>
+         <punt>
+            <soort>pr1</soort>
+         </punt>
+         <vlak>
+            <soort>vsg0</soort>
+         </vlak>
+      </symboolcode>
+   </waardelijst>
+   <waardelijst uri="http://standaarden.omgevingswet.overheid.nl/imow/id/waardelijst/WaterEnWatersysteemgroep">
+      <symboolcode>
+         <lijn>
+            <soort>ls</soort>
+         </lijn>
+         <punt>
+            <soort>pr1</soort>
+         </punt>
+         <vlak>
+            <soort>vsz</soort>
+         </vlak>
+      </symboolcode>
+   </waardelijst>
+</voorwaarden>
