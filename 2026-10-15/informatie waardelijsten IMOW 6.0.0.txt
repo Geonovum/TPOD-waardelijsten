@@ -1,0 +1,13 @@
+Vervang de inhoud van versie door '6.0.0'.
+Vervang de inhoud van publicatiedatum door '2026-10-15'.
+Verwijder waarde met uri='http://standaarden.omgevingswet.overheid.nl/bodem/id/concept/BodemfunctieklasseIndustrie'.
+Verwijder waarde met uri='http://standaarden.omgevingswet.overheid.nl/bodem/id/concept/BodemfunctieklasseLandbouw_natuur'.
+Verwijder waarde met uri='http://standaarden.omgevingswet.overheid.nl/bodem/id/concept/BodemfunctieklasseWonen'.
+Verwijder waarde met uri='http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Bouwwerken'.
+Verwijder waarde met uri='http://standaarden.omgevingswet.overheid.nl/thema/id/concept/CultureelErfgoed'.
+Verwijder waarde met uri='http://standaarden.omgevingswet.overheid.nl/thema/id/concept/EnergieEnNatuurlijkeHulpbronnen'.
+Verwijder waarde met uri='http://standaarden.omgevingswet.overheid.nl/thema/id/concept/ExterneVeiligheid'.
+Verwijder waarde met uri='http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik'.
+Verwijder waarde met uri='http://standaarden.omgevingswet.overheid.nl/thema/id/concept/MilieuAlgemeen'.
+Verwijder waarde met uri='http://standaarden.omgevingswet.overheid.nl/thema/id/concept/WaterEnWatersystemen'.
+Vervang van waarde met uri='http://standaarden.omgevingswet.overheid.nl/bouw/id/concept/NietGeluidgevoeligeGevel' de inhoud van definitie door 'Waarde voor attribuut groep bij het Gebiedsaanwijzingtype Bouw voor het aanwijzen van een gevel van een geluidgevoelig gebouw waarop de geluidbelasting - al dan niet met bouwkundige maatregelen - een bepaalde waarde mag overschrijden.'.
