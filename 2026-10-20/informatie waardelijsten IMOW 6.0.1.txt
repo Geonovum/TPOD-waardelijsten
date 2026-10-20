@@ -1,0 +1,7 @@
+Herstelrelease op 6.0.0. Er zijn geen waarden toegevoegd of verwijderd en er zijn geen URI's gewijzigd.
+Vervang de inhoud van versie door '6.0.1'.
+Vervang de inhoud van publicatiedatum door '2026-10-20'.
+Aan de waardelijst Bouwgroep is de bron Besluit kwaliteit leefomgeving toegevoegd. Deze bron is gebruikt door Niet-geluidgevoelige gevel.
+Vervang van waarde Aardwarmtewinningsgebied (Functiegroep) de symboolcode lm000, pv100, vsg100 door lm013, pv113, vsg113. Vlaksymbool vsg100 bestaat niet in de symbolenbibliotheek.
+Herstel: in waardelijsten IMOW 6.0.0.xlsx stonden de symboolcodes aan elkaar, had de kolom Specialisatie de kop 'Specialisatie van' en was het blad geen Excel-tabel.
+Herstel: in de export voor de stelselcatalogus was versieVan leeg bij de waarden van Bouwgroep.
