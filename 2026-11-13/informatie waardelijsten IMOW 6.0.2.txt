@@ -1,0 +1,8 @@
+Patchrelease op 6.0.1. Er zijn geen waarden toegevoegd of verwijderd. Er zijn geen URI's, labels, definities, toelichtingen, bronnen of symboolcodes gewijzigd.
+Vervang de inhoud van versie door '6.0.2'.
+Vervang de inhoud van publicatiedatum door '2026-11-13'.
+In de stelselcatalogus verwijzen de waarden met een symboolcode nu naar het symbool in de symbolenbibliotheek, met definitie en afbeelding. Voorbeeld: http://standaarden.omgevingswet.overheid.nl/lijn/id/concept/ls021 in plaats van http://standaarden.omgevingswet.overheid.nl/symboolcode/id/concept/ls021.
+Daarvoor hebben de 412 waarden met een symboolcode een nieuwe versie gekregen per 2026-11-13, verdeeld over 22 waardelijsten. Hun inhoud is niet veranderd. Het overzicht en de versienotities in de stelselcatalogus noemen deze waarden toch als gewijzigd.
+De begrippen onder http://standaarden.omgevingswet.overheid.nl/symboolcode/id/concept/ zijn per 2026-11-13 beëindigd. Versies tot en met 6.0.1 blijven ernaar verwijzen.
+Niet gewijzigd zijn de waardelijsten zonder symboolcode: Activiteitregelkwalificatie, Adressaat, Eenheid, Idealisatie, Instrument, Thema, TypeGebiedsaanwijzing en TypeNorm.
+In de bestanden waardelijsten IMOW 6.0.2.xml, .json en .xlsx verandert alleen het versienummer.
